@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vite
+
+# Real dataset — kept only on the developer machine, never committed or published.
+src/data/instruments.local.json
